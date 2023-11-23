@@ -2,10 +2,6 @@
 
 ## Files
 
-### `.gitignore`
-
-This file lists all files and folders excluded from version control.
-
 ### `.golangci.yml`
 
 The configuration of the main linter in use. Visit the [golangci](https://golangci-lint.run/) website for more details.
@@ -17,10 +13,6 @@ The configuration of the release tool in use. Visit the [goreleaser](https://gor
 ### `renovate.json`
 
 The configuration of the dependency monitoring bot. Visit the [renovate](https://docs.renovatebot.com/) website for more details.
-
-### `LICENSE`
-
-The copy of the license text valid for this repository.
 
 ## Directories
 
