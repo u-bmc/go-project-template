@@ -1,4 +1,4 @@
-module github.com/MDr164/CI-Testing
+module github.com/u-bmc/go-project-template
 
 go 1.21
 
